@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "scripts": {
+    "test": "mocha",
+    "test:watch": "mocha --watch",
+    "test:coverage": "c8 mocha"
+  }
+}
